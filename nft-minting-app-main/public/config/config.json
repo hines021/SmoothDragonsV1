@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x28A1443Bd0E2060aA22426226Fa90ae8DE031886",
+  "SCAN_LINK": "https://etherscan.io/address/0x28a1443bd0e2060aa22426226fa90ae8de031886",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "SmoothDragons",
+  "SYMBOL": "SD",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/smoothdragons",
+  "SHOW_BACKGROUND": true
+}
